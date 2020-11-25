@@ -1,0 +1,435 @@
+{
+
+  "WelcomeMessage": "Welcome back! Your have completed {{value1}} out of {{value2}} lessons ( {{value3}} %)",
+
+  "YES": "YES",
+  "NO": "NO",
+  "OK": "OK",
+  "CANCEL": "CANCEL",
+  "VIEW_INVOICE": "VIEW",
+  "PAY_NOW": "PAY NOW",
+
+  "ACTIVATE_TRIAL_TITLE": "Activate trial?",
+  "ACTIVATE_TRIAL_DESC": "Would you like to activate your trial now?",
+
+  "ACTIVATE_TRIAL_TITLE_2": "Activate trial?",
+  "ACTIVATE_TRIAL_DESC_2": "Starting the course will activate your trial.",
+
+  "TRIAL_ACTIVATED_TOAST": "Your trial subscription is active until {{v1}}. Enjoy!",
+
+  "TAKE_COURSE_AGAIN": "Take course again?",
+  "TAKE_COURSE_AGAIN_DESC": "This will reset the progress of this course.",
+
+  "REMOVE_COURSE": "Remove course?",
+  "REMOVE_COURSE_DESC": "This will reset the progress of this course.",
+  "REMOVE_COURSE_TOAST": "The course has been removed from your active courses.",
+
+  "ALREADY_PENDING_INVOICE": "ALREADY_PENDING_INVOICE",
+
+  "INVOICE_CREATED": "Invoice created",
+  "INVOICE_CREATED_DESC": "Your invoice is ready and pending payment.",
+
+  "CHOSE_SUBSCRIPTION": "Choose subscription",
+  "CHOSE_SUBSCRIPTION_DESC": "Please select the subscription plan.",
+
+  "APPLY_CHANGES": "Apply changes?",
+  "APPLY_CHANGES_DESC": "This will require to verify your account again. Meanwhile you will not be able to take courses.",
+
+  "CHANGE_PASSWORD": "Change password?",
+  "CHANGE_PASSWORD_DESC": "This will require to login again.",
+
+
+  "VERIFICATION_EMAIL_SENT": "Verification Email sent",
+  "VERIFICATION_EMAIL_SENT_DESC": "Please check your inbox. If have not received it, check Spam folder or contact us in Online Chat.",
+
+  "VERIFICATION_EMAIL_COUNT_TITLE": "Can not sent verification email",
+  "VERIFICATION_EMAIL_COUNT_DESC": "Maximun 3 consective resend email verification allowed, Please contact students support ",
+
+  "PROFILE_UPDATED": "Profile updated",
+
+  "SETTING_UPDATED": "Settings updated",
+  "SETTINGS_PREFERENCES": "Preferences",
+
+  "SETTINGS_PREFERENCES_LANGUAGE": "Select your language",
+  "SETTINGS_PREFERENCES_LANGUAGE_EN": "Thai",
+  "SETTINGS_PREFERENCES_LANGUAGE_TH": "English",
+
+
+
+  "TOAST_COURSE_TAKE_WELCOME": "Your have completed {{v1}} out of {{v2}} lessons ({{v3}}%)",
+  "TOAST_COURSE_TAKE_PROGRESS": "{{v1}} out of {{v2}} lessons completed ({{v3}}%)",
+  "TOAST_COURSE_TAKE_CONGRATULATIONS": "Congratulation you have completed 100%",
+  "TOAST_COURSE_PROGRESS_REST": "Progress reset. You can start the course",
+
+  "BTN_PREVIOUS": "Previous",
+  "BTN_NEXT": "Next",
+  "BTN_CONTINUE": "CONTINUE",
+  "BTN_START": "START",
+  "BTN_AGAIN": "AGAIN",
+  "BTN_PREVIEW": "Preview",
+  "BTN_COMPLETE": "COMPLETE",
+  "BTN_EMAIL_VERIFICATION": "Email verification",
+  "BTN_ENROLL_NOW": "Enroll now",
+  "BTN_AUTH_HELP": "Help",
+
+
+
+
+  "LESSONS": "lessons",
+  "LESSONS_H_M": "{{v1}} h {{v2}} m",
+
+  "COURSES": "courses",
+  "HOURS": "hours",
+
+  "COURSE_FILE": "File",
+  "COURSE_CONTENT": "Content",
+  "COURSE_DETAILS": "Course details",
+
+  "COURSE_SECTION": "Section",
+  "NAV_PROFILE": "Profile",
+  "NAV_ACCOUNT": "Account",
+  "NAV_MEMBERSHIP": "Membership",
+  "NAV_SUBSCRIPTION": "Subscription",
+  "NAV_PAYMENTS": "Payments",
+  "NAV_SETTINGS": "Settings",
+  "NAV_LOGOUT": "Logout",
+  "NAV_HOME": "Home",
+  "NAV_MY_COURSES": "My Courses",
+  "NAV_ACCOUNT_AND_SETTINGS": "Account and Settings",
+  "NAV_GET_STARTED": "Get Started",
+
+
+
+
+  "CONTINUE_LEARNING": "Continue Learning",
+  "LATEST_COURSES": "Latest courses",
+  "ACTIVE_COURSES": "Active courses",
+  "COMPLETED_COURSES": "Completed courses",
+
+  "FILTER_ACTIVE": "Active",
+  "FILTER_LATEST": "Latest",
+  "FILTER_COMPLETED": "Completed",
+
+
+  "BC_BROWSE_COURSES": "Browse courses",
+  "BC_BROWSE_QUIZZES": "Browse quizzes",
+  "BC_ACCOUNT": "Account",
+
+
+
+  "ACCOUNT_USERNAME": "Username",
+  "ACCOUNT_EMAIL": "Email",
+  "ACCOUNT_CURRENT_PASSWORD": "Current Password",
+  "ACCOUNT_NEW_PASSWORD": "New Password",
+  "ACCOUNT_NEW_PASSWORD_CONFIRMATION": "New Password Confirmation",
+  "EMAIL_ADDRESS_ALREADY_IN_USE": "Email address is already in use",
+
+  "VALIDATION_AT_LEAST_ONE_NUMBER": "Must contain at least one number digit (ex: 0, 1, 2, 3, etc.).",
+  "VALIDATION_AT_LEAST_ONE_UPPERCASE": "Must contain at least one uppercase letter (ex: A, B, etc.).",
+  "VALIDATION_AT_LEAST_ONE_LOWERCASE": "Must contain at least 1 Letter in lowercase letter (ex: a, b, etc.).",
+  "VALIDATION_NO_EMPTY_SPACES": "No empty spaces.",
+
+  "VALIDATION_CHARACTERS_COUNT": "Must be between 6 and 20 characters.",
+  "VALIDATION_LATIN_CHARACTERS_ONLY": "Latin charachers only.",
+  "VALIDATION_PASSWORD_MUST_MATCH": "Passwords must match",
+  "VALIDATION_CONFIRM_PASSWORD_REQUIRED": "Confirm Password is required",
+  "VALIDATION_USERNAME_REQUIRED": "Username is required",
+  "VALIDATION_EMAIL_REQUIRED": "Email is required",
+  "VALIDATION_MUST_VALID_EMAIL": "Email must be a valid email address",
+  "VALIDATION_WRONG_EMAIL_PATTERN": "Wrong Email Pattern",
+  "VALIDATION_CURRENT_PASSWORD_REQUIRED": "Current Password is required",
+  "VALIDATION_WRONG_PASSWORD": "Wrong Password!",
+  "VALIDATION_PASSWORD_REQUIRED": "Password is required",
+
+
+  "MEMBERSHIP_AND_SUBSCRIPTION": "Membership & Subscription",
+  "MEMBERSHIP_TRIAL": "Trial",
+  "MEMBERSHIP_FREE_TRIAL": "Free trial membership",
+  "MEMBERSHIP_ACTIVE": "Active",
+  "MEMBERSHIP_EXPIRED": "Expired",
+  "SUBSCRIPTION_UNTIL": "until",
+  "SUBSCRIPTION_ON": "on",
+  "SUBSCRIPTION_MANAGE": "Manage subscription",
+  "SUBSCRIPTION_CURRENT": "Current Subscription",
+  "SUBSCRIPTION_PLANS": "Subscription Plans",
+  "SUBSCRIPTION_ID": "Subscription ID",
+  "SUBSCRIPTION_NOT_ACTIVATED": "Not Activated",
+  "SUBSCRIPTION_ACTIVATE_NOW": "Activate Now",
+  "SUBSCRIPTION_EXTEND_NOW": "Extend Now",
+  "SUBSCRIPTION_PROCESSING": "Processing...",
+  "SUBSCRIPTION_PLANS_OPTIONS_INFO": "Check out the subscription plan options below. If you subscribe for 1 month, but your current plan is 1 year, another month will be added after the expiration date of your annual subscription.",
+
+
+
+  "SUBSCRIPTION_PLAN_YEAR": "Year",
+  "SUBSCRIPTION_PLAN_MONTH": "Month",
+  "SUBSCRIPTION_PLAN_DAY": "Day",
+  "SUBSCRIPTION_PLAN_ANNUALLY": "Annually",
+  "SUBSCRIPTION_PLAN_MONTHLY": "Monthly",
+
+  "SUBSCRIPTION_PAY_NOW": "Pay Now",
+
+
+  "AND": "and",
+
+
+
+
+
+
+
+
+
+
+  "INVOICE_CUSTOMER": "Customer",
+  "INVOICE_COMPANY": "Company",
+  "INVOICE_ITEM": "Item (subscription plan)",
+  "INVOICE_SELECT_RECEIPTS": "Select receipts to upload",
+  "INVOICE_ID": "Invoice ID",
+  "INVOICE_TERMS": "Terms & Conditions",
+  "INVOICE_PAYMENT_INSTRUCTIONS": "Payment Instructions",
+  "INVOICE_CREATED_ON": "Created on",
+  "INVOICE_PAID_ON": "Paid on",
+  "INVOICE_SUBSCRIPTION_PLAN": "Subscription",
+  "INVOICE_PRICE": "Price",
+  "INVOICE_STATUS": "Status",
+  "INVOICE_STATUS_PENDING_PAYMENT": "Pending payment",
+  "INVOICE_STATUS_PENDING_APPROVAL": "Pending approval",
+  "INVOICE_STATUS_PAID": "Paid",
+  "INVOICE_STATUS_DECLINED": "Decline",
+  "INVOICE_STATUS_DECLINED_REASON": "Decline reason",
+  "INVOICE_VIEW": "View",
+  "INVOICE_PAY": "Pay",
+  "INVOICE_PRICE_TOTAL": "Total",
+  "INVOICE_PENDING_PAYMENT_ALERT": "Pending payment. please upload the payment slip below",
+  "INVOICE_PENDING_PENDING_APPROVAL_ALERT": "Receipt submitted. Pending approval",
+  "INVOICE_PAID_THANKYOU": "Invoice is paid. Thank you! Check the receipt",
+  "INVOICE_SELECT_RECEIPTS_UPLOAD": "Select receipts to upload",
+  "INVOICE_VALIDATION_LARGE_FILE": "Sorry, this file is too large",
+  "INVOICE_RECEIPTS_UPLOAD_EXTENSIONS": "Only ('jpg', 'jpeg', 'JPG', 'JPEG') extension images allowed",
+  "INVOICE_RECEIPTS_SEND": "Send",
+  "INVOICE_BANK_ACCOUNT": "Bank Account",
+  "INVOICE_LINK_COPY": "Invoice Link",
+  "INVOICE_NO_PAYMENT_FOUND": "No payments found",
+
+  "INVOICE_BANK_ACCOUNT_COPIED":	"Bank account copied",
+  "INVOICE_LINK_COPIED":	"Invoice link copied",
+  "INVOICE_RECEIPTS_FILE_SIZE_MAX_ERROR": "Maximum upload file size allowed 500 kb",
+
+  "PROFILE_FIRSTNAME": "First Name",
+  "PROFILE_LASTNAME": "Last Name",
+  "PROFILE_NICKNAME": "Nickname",
+  "VALIDATION_FIRSTNAME_REQUIRED": "First Name is required",
+  "VALIDATION_LASTNAME_REQUIRED": "Last Name is required",
+  "VALIDATION_NICKNAME_REQUIRED": "Nickname is required",
+
+
+
+
+
+
+
+  "AUTH_EMAIL_USERNAME_LABEL": "Email / Username",
+  "AUTH_PASSWORD_LABEL": "Password",
+  "AUTH_FIRSTNAME_LABEL": "First Name",
+  "AUTH_FIRSTNAME_REQUIRED": "First Name is required",
+
+  "AUTH_LASTNAME_LABEL": "Last Name",
+  "AUTH_LASTNAME_REQUIRED": "Last Name is required",
+
+  "AUTH_EMAIL_LABEL": "Email",
+  "AUTH_EMAIL_PASSWORD": "Password",
+  "AUTH_EMAIL_PASSWORD_CONFIRM": "Confirm password",
+  "AUTH_REGISTER_BUTTON": "Register",
+  "AUTH_LOGIN_BUTTON": "Login",
+
+  "AUTH_REGISTER_CAPTION": "Register",
+  "AUTH_REGISTER_NOW": "Register Now!",
+  "AUTH_FORGOT_PASSWORD": "Forgot password?",
+  "AUTH_SIGN_IN_CAPTION": "Sign in",
+  "AUTH_LOGIN_CAPTION": "Login and start learning!",
+  "AUTH_CREATE_ACCOUNT_CAPTION": "Create your account and start learning Japanese now!",
+  "AUTH_ALREADY_HAVE_ACCOUNT_CAPTION": "Already have an account? Login",
+  "AUTH_INCORRECT_CREDENTIALS": "Incorrect login credentials. Please check and try again.",
+
+
+  "AUTH_NICKNAME": "Nickname",
+  "AUTH_NICKNAME_REQUIRED": "Nickname is required",
+  "VALIDATION_EMAIL_ADDRESS_ALREADY_IN_USE":"Email address is already in use",
+
+
+  "AUTH_FORGOT_PASSWORD_CAPTION":	"Forgot password",
+  "AUTH_FORGOT_PASSWORD_INSTRUCTIONS": "Please enter your Email address or your username and we will send you the password reset instructions.",
+  "AUTH_RESET_PASSWORD": "Reset password:",
+  "AUTH_RESET_PASSWORD_NO_USERNAME_OR_EMAIL": "We couldn't find an accound associated with the provided username or Email address. Please try again.",
+  "AUTH_RESET_PASSWORD_CHECK_EMAIL": "You should soon receive an email allowing you to reset your password. Please make sure to check your spam and trash if you can't find the email.",
+
+
+
+  "COURSE_CONTENT_LESSON": "Lesson",
+
+
+
+  "STATS_COURSES": "{{v1}} courses",
+  "STATS_LESSONS": "{{v1}} lessons",
+  "STATS_HOURS": "{{v1}} hours",
+
+
+  "ALERT_PENDING_VERIFICATION": "Your account is pending verification",
+  "REMOVE": "Remove",
+
+
+
+ "ALERT_SUBSCRIPTION_EXPIRED": "Your subscription has expired",
+ "ALERT_SUBSCRIPTION_DEACTIVATED":	"Your subscription is deactivated",
+ "EMAIL_VERIFICATION_NOTE": "You should receive an email with the verification instructions. Please make sure to check your spam and trash if you can't find the email. If you haven't received the Email, please click on RESEND VERIFICATION EMAIL: button or contact us at help@ilovejapanschool.com",
+
+ "NO_COURSES_YET": "No courses yet",
+
+  "QUICK_ACCESS_WITH": "Quick access with",
+
+
+  "TRIAL_LOCK_LESSON": "Paid plans only",
+
+  "UPCOMMING_COURSES": "Upcomming Courses",
+
+  "QUIZ": "Quiz",
+  "QUIZ_TAKE_BTN": "Quiz",
+  "QUIZ_TAB": "Quiz",
+  "QUIZ_NAV": "Quiz",
+  "QUIZ_REVIEW_ATTEMPTS": "Review quiz attempts",
+  "QUIZ_RESULT_CORRECT_TOTAL": "You got {{v1}} of {{v2}} questions correct.",
+  "QUIZ_LEARNING_CHECK": "Learning Check",
+  "QUIZ_RELATED_CLIP": "Related Clip",
+  "QUESTION_DURATION": "Duration",
+  "QUIZ_QUESTION_PROGRESS": "Question {{v1}} of {{v2}}",
+  "QUIZ_NEXT_QUESTION": "Next",
+  "QUIZ_INCORRECT_QUESTIONS": "Incorrect Questions",
+  "QUIZ_EXIT_TO_COURSE": "Exit to Course Page",
+  "QUIZ_START_BTN": "Start",
+
+
+  "STATS_QUIZ": "{{v1}} quiz",
+  "STATS_QUIZZES": "{{v1}} quizzes",
+  "STATS_QUIZZES_QUESTIONS": "{{v1}} questions",
+
+  "NAV_LIKED_COURSES" :"My List",
+  "COURSE_REMOVED_FROM_LIKE" : "Course removed from liked courses",
+  "CATEGORY_VIEW_ALL" : "View All",
+
+  "NOTIFICATIONS" : "Notifications",
+  "UPDATES" : "Updates",
+  "VIEW_ALL_NOTIFICATIONS" : "View All Notifications",
+  "YOU_LIKED_IT": "You Like this course",
+  "NO_NEW_NOTIFICATION": "No new notification",
+  "NO_LIKED_COURSES_YET" : "No liked courses yet",
+  "BC_NOTIFICATIONS" : "Notifications",
+  "All_CATEGORIES" : "All Categories",
+  "ALL_CATEGORIES_SELECTED" : "All",
+
+  "JUST_NOW" : "Just now",
+  "YEAR_AGO" : "{{v1}} year ago",
+  "YEARS_AGO" : "{{v1}} years ago",
+  "DAY_AGO" : "{{v1}} day ago",
+  "DAYS_AGO" : "{{v1}} days ago",
+  "MONTH_AGO" : "{{v1}} month ago",
+  "MONTHS_AGO" : "{{v1}} months ago",
+  "WEEK_AGO" : "{{v1}} week ago",
+  "WEEKS_AGO" : "{{v1}} weeks ago",
+  "HOUR_AGO" : "{{v1}} hour ago",
+  "HOURS_AGO" : "{{v1}} hours ago",
+  "MINUTE_AGO" : "{{v1}} minute ago",
+  "MINUTES_AGO" : "{{v1}} minutes ago",
+  "SECOND_AGO" : "{{v1}} second ago",
+  "SECONDS_AGO" : "{{v1}} seconds ago",
+
+
+  "JAPANESE_LANGUAGE_ONLINE_SCHOOL" : "Japanese Language Online School",
+  "REGISTERATION_PAGE_DESCRIPTION" : "We are offering by far the most affordable and high quality Japanese language cirricilum that has been already appreciated by <strong>{{v1}}</strong> students. Our program consisting of <strong>{{v2}}</strong> courses, <strong>{{v3}}</strong> hours and over <strong>{{v4}}</strong> lessons will surely scyrocket your Japanese language skills from a total beginner untill full business proficiency.",
+  "FLEXIBLE_PRICING_OPTION": "Flexible Pricing Options",
+  "REGISTER_START_LEARNING_TODAY": "Register and start learning today!",
+  "REGISTER_TOP_LABEL": "{{V1}}% OFF - RECOMMENDED",
+  "NAV_START_TRIAL": "7 days free trial",
+  "REGISTER_BILLED_MONTHLY" : "Billed Monthly",
+  "REGISTER_SAVE_PERCENT" : "SAVE {{v1}}%",
+  "REGISTER_BILLED_ANNUALLY" : "BILLED ANNUALLY",
+
+
+  "HIDE_NOTIFICATION" : "Hide this Notification",
+  "VIEW_ALL_NOTI" : "View all notifications",
+  "ABOUT_STUDENT" : "ABOUT STUDENT",
+  "STUDY_STATS" : "STUDY STATS",
+  "QUIZ_CHART" : "QUIZ CHART",
+  "BASIC_INFO" : "Basic information",
+  "STUDENT_STATS" : "Student Stats",
+  "COURSE" : "Courses",
+  "QUIZES" : "Quizes",
+  "BIRTHDAY" : "Birthday",
+  "GENDER" : "Gender",
+  "STUDENT_SINCE" : "Student Since",
+  "STUDY_DURATION" : "Study duration",
+  "SCHOOL_VISITS" : "School visits",
+  "STUDY_PER_TIME" : "Study per time",
+  "ENROLLED_IN" : "Enrolled in",
+  "COURSE_COMPLETE" : "Courses completed",
+  "LESSON_COMPLETE" : "Lesson completed",
+  "QUIZ_TAKEN" : "Quizzes taken",
+  "TOTAL_ATTEMPTS" : "Total attempts",
+  "ANSWERED_QS" : "Total answered questions",
+  "AVG_QUIZ_SCORE" : "Average quiz score ",
+
+
+  "PRINT" : "Print",
+  "EDIT" : "Edit",
+  "VISIT_TIMES" : "{{v1}} times",
+
+  "JANUARY": "January",
+  "FEBRUARY": "February",
+  "MARCH": "March",
+  "APRIL": "April",
+  "MAY": "May",
+  "JUNE": "June",
+  "JULY": "July",
+  "AUGUST": "August",
+  "SEPTEMBER": "September",
+  "OCTOBER": "October",
+  "NOVEMBER": "November",
+  "DECEMBER": "December",
+
+
+  "VISITS": "Visits",
+  "VISITS_OVERVIEW": "Visits overview",
+  "STUDY_DURATION_OVERVIEW": "Study Duration Overview",
+  "MINUTES": "Minutes",
+  "LAST_WEEK": "Last week",
+  "THIS_WEEK": "This week",
+
+  "SCHOOL_WEEKLY_VISITS": "School weekly visits",
+  "SCHOOL_WEEKLY_VISITS_DESCRIPTION": "This chart displays your school visits on weekly basis.",
+  "STUDY_DURATION_DESCRIPTION": "This chart displays your study duration on weekly basis",
+
+  "QUIZZES_SUMMARY": "Quizzes summary",
+  "QUIZZES_SUMMARY_DESCRIPTION": "This chart gives you an outlook of your quizzes results",
+
+  "QUIZ_ATTEMPTS": "Quiz Attempts",
+  "QUIZ_AVG_RESULT": "Quiz average result",
+  "YOUR_QUIZZES": "Your Quizzes",
+  "TOAST_TRANSCRIPT_PDF": "Click here to download transcript",
+  "NOTIFICATIONS_READ_MORE": "Read More",
+
+  "PROMOTION": "Promotion",
+  "PROMOTIONS": "Promotions",
+  "PROMOTION_INFO": "Promotion subscription plans",
+  "PROMOTION_ACTIVATE_TITLE": "Activate Promotion",
+  "PROMOTNION_ACTIVATE_DESC": "Would you like to activate the promotion now?",
+  "PROMOTION_SUCCESFULLY_ENABLED": "Promotion succesfully enabled",
+  "SUBSCRIPTION_PROMOTION_BTN": "Access",
+  "PROMOTION_ACCESS": "Free promotion plans are available only for accounts with expired / inactive subscriptions",
+  "PROMOTION_ALREADY_EXISTS": "You cannot use more than one promotional subscription at the same time. Please try again after your current promotion is expired",
+  "Success": "Success",
+  "Error": "Error",
+  "Info": "Info",
+
+
+  "TESTING": "TESTING"
+}
